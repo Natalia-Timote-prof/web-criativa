@@ -1,0 +1,52 @@
+body {
+  background-color: #DDAC17;
+  padding: 16px;
+  font-family: Arial, sans-serif;
+}
+
+header {
+  padding: 16px;
+  background-color: #ECC440;
+}
+
+.titulo {
+  text-align: center;
+  font-size: 24px;
+  color: black;
+}
+
+.subtitulo {
+  text-align: center;
+  color: #333;
+}
+
+nav {
+  margin: 10px 0;
+  text-align: center;
+}
+
+nav a {
+  margin: 0 15px;
+  color: #ECC440;
+  text-decoration: none;
+}
+
+nav a:hover {
+  text-decoration: underline;
+}
+
+img {
+  width: 400px;
+  height: auto;
+  border-radius: 16px;
+}
+
+button {
+  text-decoration: none;
+  color: black;
+  background-color: white;
+  border-radius: 8px;
+  padding: 16px;
+  border: none;
+  cursor: pointer;
+}
